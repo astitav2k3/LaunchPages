@@ -37,11 +37,11 @@ export default function Home(){
         <div className="container">
           <h2 className="text-2xl font-semibold">Templates</h2>
           <div className="mt-6 grid md:grid-cols-3 gap-6">
-            <a href="https://cafe-rapture.vercel.app/" className="card block hover:scale-[1.01] transition-transform">
+            <a href="https://www.google.com" className="card block hover:scale-[1.01] transition-transform">
               <h3 className="font-semibold">GymPro</h3>
               <p className="text-slate-400 mt-2">Programs, trainers, pricing, reviews and location.</p>
             </a>
-            <a href="https://www.google.com" className="card block hover:scale-[1.01] transition-transform">
+            <a href="https://cafe-rapture.vercel.app/" className="card block hover:scale-[1.01] transition-transform">
               <h3 className="font-semibold">CafeRapture</h3>
               <p className="text-slate-400 mt-2">Menu highlights, gallery, hours & special offers.</p>
             </a>
