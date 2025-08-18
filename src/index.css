@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --accent: #06b6d4;
+  --muted: #6b7280;
+}
+
+body { @apply bg-slate-900 text-slate-100 antialiased; }
+.container { @apply max-w-5xl mx-auto px-4; }
+.btn { @apply inline-flex items-center justify-center px-4 py-2 rounded-lg font-semibold shadow-md; }
+.btn-primary { @apply bg-cyan-500 hover:bg-cyan-400 text-slate-900; }
+.card { @apply bg-slate-800 border border-slate-700 rounded-xl p-6 shadow-lg; }
