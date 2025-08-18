@@ -13,7 +13,7 @@ export default function Home(){
               <Link to="/contact" className="btn border border-slate-700 px-4 py-2 rounded-lg">Get a Quote</Link>
             </div>
             <ul className="mt-6 text-slate-400 space-y-2">
-              <li>• 3 ready templates (Gym, Cafe, Salon/Tutor)</li>
+              <li>• 3 ready templates (Gym, Cafe, Salon)</li>
               <li>• Mobile-first, SEO basics, Google Maps embed</li>
               <li>• Optional domain & hosting setup</li>
             </ul>
