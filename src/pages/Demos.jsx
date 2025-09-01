@@ -8,12 +8,12 @@ export default function Demos() {
         <div className="mt-6 grid md:grid-cols-3 gap-6">
           
           <div className="card">
-            <h3 className="font-semibold">GymPro</h3>
+            <h3 className="font-semibold">PulseFit GYM</h3>
             <p className="text-slate-400 mt-2">Fitness-focused landing with pricing & trainers.</p>
             <div className="mt-4 flex gap-2">
               <a
                 className="btn btn-primary"
-                href="https://www.google.com"
+                href="https://pulse-fit-demo.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
